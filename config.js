@@ -9,28 +9,28 @@ module.exports = {
      * bot details and parameters
      */
     botname: process.env.BotName || "Qᴜᴇᴇɴ ᴀɴʏᴀ ᴠ2",
-    footer: process.env.Footer || "© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐁𝐨𝐭",
+    footer: process.env.Footer || "© небесная мечта",
     prefa: process.env.Prefix || "-",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika",
+    ownername: process.env.Owner_Name || "небесная мечта",
     ownernumber: process.env.Owner_Number || "79149958622",
-    instagramId: process.env.Insta || "woxsov",
+    instagramId: process.env.Insta || "🐢",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "𝐏𝐢𝐤𝐚𝐁𝐨𝐭𝐳 🌚🌙",
+    author: process.env.Author || "𝐏",
     packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐 🪀",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    socialLink: process.env.Web || "https://github.com",
+    groupLink: process.env.GcLink || "https://chat.whatsapp.com",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "mongodb+srv://roleraf778:gAM1LBkRYxrTBIro@cluster0.bpihwwh.mongodb.net/?retryWrites=true&w=majority",
-    sessionId: process.env.SESSION_ID || "YW5rYzI_Queen-Anya_4bHA=",
+    sessionId: process.env.SESSION_ID || "OXk4d2t_AN_YA_mbHo=",
 
     /**
      * thumbnails and medias
