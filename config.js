@@ -16,21 +16,21 @@ module.exports = {
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "84924789034✅️",
+    ownername: process.env.Owner_Name || "xi jaraiyan",
     ownernumber: process.env.Owner_Number || "84924789034",
     instagramId: process.env.Insta || "🐢",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "𝐏",
-    packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐 +84924789034 🪀",
+    author: process.env.Author || "84924789034 🪀",
+    packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐",
     socialLink: process.env.Web || "https://github.com",
     groupLink: process.env.GcLink || "https://chat.whatsapp.com",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "mongodb+srv://roleraf778:gAM1LBkRYxrTBIro@cluster0.bpihwwh.mongodb.net/?retryWrites=true&w=majority",
-    sessionId: process.env.SESSION_ID || "3G86fR2yomZ1R1wi_A_N_Y_A_V_2_dpTf",
+    sessionId: process.env.SESSION_ID || "pyWrMz26rN6uXW_A_N_Y_A_V_2_nwEMeo",
 
     /**
      * thumbnails and medias
